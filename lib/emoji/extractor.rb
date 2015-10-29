@@ -21,7 +21,7 @@ module Emoji
 
         ttf_name = ttf.postscript.glyph_for(glyph_id)
         hexes = ttf_name.split('_').map { |n| n.gsub(/^u/, '').downcase }
-        if emoji_char_codes.include?(hexes.first.to_i(16))
+        # if emoji_char_codes.include?(hexes.first.to_i(16))
           # When an emoji supports skin-tone modifiers, all variants--including
           # the unmodified "base" emoji--are suffixed with a "." + a number:
           # 0 for the base, then 1-5 which maps to Fitzpatrick types 2-6
@@ -34,7 +34,7 @@ module Emoji
           end
           filename = "#{hexes.join('-')}.#{bitmap.type}"
           File.write(images_path.join(filename), bitmap.data.read)
-        end
+        # end
       end
     end
 
@@ -46,7 +46,7 @@ module Emoji
     end
 
     def emoji_char_codes
-      0x1F004..0x1F6FF
+      0x1F004..0x19FFF
     end
 
     def modifiers
