@@ -21,14 +21,17 @@ module Emoji
 
         ttf_name = ttf.postscript.glyph_for(glyph_id)
         hexes = ttf_name.split('_').map { |n| n.gsub(/^u/, '').downcase }
-
         if emoji_char_codes.include?(hexes.first.to_i(16))
           # When an emoji supports skin-tone modifiers, all variants--including
           # the unmodified "base" emoji--are suffixed with a "." + a number:
           # 0 for the base, then 1-5 which maps to Fitzpatrick types 2-6
           # (https://en.wikipedia.org/wiki/Fitzpatrick_scale). We remove the
           # base's suffix to fix its lookups.
-          hexes.last.gsub!(/\.0$/, '')
+          modifiers.each do |modifier, unicode|
+            if hexes.last.gsub!(/\.#{modifier}/, '') && unicode.length > 0
+              hexes << unicode
+            end
+          end
           filename = "#{hexes.join('-')}.#{bitmap.type}"
           File.write(images_path.join(filename), bitmap.data.read)
         end
@@ -36,13 +39,25 @@ module Emoji
     end
 
     private
-      def extract_bitmap(glyph_id)
-        bitmaps = ttf.sbix.all_bitmap_data_for(glyph_id)
-        bitmaps.detect { |b| b.ppem == size }
-      end
 
-      def emoji_char_codes
-        @emoji_char_codes ||= Emoji.all.reject(&:custom?).map { |e| e.raw.codepoints[0] }
-      end
+    def extract_bitmap(glyph_id)
+      bitmaps = ttf.sbix.all_bitmap_data_for(glyph_id)
+      bitmaps.detect { |b| b.ppem == size }
+    end
+
+    def emoji_char_codes
+      0x1F004..0x1F6FF
+    end
+
+    def modifiers
+      {
+        '0' => '', # Base color type
+        '1' => '1f3fb', # EMOJI MODIFIER FITZPATRICK TYPE-1-2
+        '2' => '1f3fc', # EMOJI MODIFIER FITZPATRICK TYPE-3
+        '3' => '1f3fd', # EMOJI MODIFIER FITZPATRICK TYPE-4
+        '4' => '1f3fe', # EMOJI MODIFIER FITZPATRICK TYPE-5
+        '5' => '1f3ff', # EMOJI MODIFIER FITZPATRICK TYPE-6
+      }
+    end
   end
 end
