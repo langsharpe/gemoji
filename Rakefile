@@ -18,7 +18,7 @@ namespace :db do
 end
 
 emoji_plist = '/System/Library/Input Methods/CharacterPalette.app/Contents/Resources/Category-Emoji.plist'
-nameslist_url = 'http://www.unicode.org/Public/6.3.0/ucd/NamesList.txt'
+nameslist_url = 'http://www.unicode.org/Public/8.0.0/ucd/NamesList.txt'
 
 task 'db/Category-Emoji.json' do |t|
   system "plutil -convert json -r '#{emoji_plist}' -o '#{t.name}'"
