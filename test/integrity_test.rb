@@ -51,6 +51,14 @@ class IntegrityTest < TestCase
     assert_equal 0, missing.size, missing_unicodes_message(missing)
   end
 
+  def teardown
+    puts "**********************************"
+    (source_unicode_emoji - Emoji.all.flat_map(&:unicode_aliases)).each do |ji|
+      puts({ emoji: ji, "aliases" => [], "tags" => []}.to_json)
+      puts ','
+    end
+  end
+
   private
     def missing_unicodes_message(missing)
       "Missing or incorrect unicodes:\n".tap do |message|
