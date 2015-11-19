@@ -9010,7 +9010,7 @@
 , {
     "emoji": "🎗"
   , "description": "reminder ribbon"
-  , "aliases": [
+  , "aliases": [ "reminder_ribbon"
     ]
   , "tags": [
     ]
@@ -9018,7 +9018,7 @@
 , {
     "emoji": "🏵"
   , "description": "rosette"
-  , "aliases": [
+  , "aliases": [ "rosette"
     ]
   , "tags": [
     ]
@@ -9026,7 +9026,7 @@
 , {
     "emoji": "🎟"
   , "description": "admission tickets"
-  , "aliases": [
+  , "aliases": [ "admission_tickets"
     ]
   , "tags": [
     ]
@@ -9034,7 +9034,7 @@
 , {
     "emoji": "🏎"
   , "description": "racing car"
-  , "aliases": [
+  , "aliases": [ "racing_car"
     ]
   , "tags": [
     ]
@@ -9042,7 +9042,7 @@
 , {
     "emoji": "🏍"
   , "description": "racing motorcycle"
-  , "aliases": [
+  , "aliases": [ "racing_motorcycle"
     ]
   , "tags": [
     ]
@@ -9050,7 +9050,7 @@
 , {
     "emoji": "🛩"
   , "description": "small airplane"
-  , "aliases": [
+  , "aliases": [ "small_airplane"
     ]
   , "tags": [
     ]
@@ -9058,7 +9058,7 @@
 , {
     "emoji": "🛫"
   , "description": "airplane departure"
-  , "aliases": [
+  , "aliases": [ "airplane_departure"
     ]
   , "tags": [
     ]
@@ -9066,7 +9066,7 @@
 , {
     "emoji": "🛬"
   , "description": "airplane arriving"
-  , "aliases": [
+  , "aliases": [ "airplane_arriving"
     ]
   , "tags": [
     ]
@@ -9074,7 +9074,7 @@
 , {
     "emoji": "🛥"
   , "description": "motor boat"
-  , "aliases": [
+  , "aliases": [ "motor_boat"
     ]
   , "tags": [
     ]
@@ -9082,7 +9082,7 @@
 , {
     "emoji": "⛴"
   , "description": "ferry"
-  , "aliases": [
+  , "aliases": [ "ferry"
     ]
   , "tags": [
     ]
@@ -9090,7 +9090,7 @@
 , {
     "emoji": "🛳"
   , "description": "passenger ship"
-  , "aliases": [
+  , "aliases": [ "passenger_ship"
     ]
   , "tags": [
     ]
@@ -9098,7 +9098,7 @@
 , {
     "emoji": "🛰"
   , "description": "satellite"
-  , "aliases": [
+  , "aliases": [ "satellite"
     ]
   , "tags": [
     ]
@@ -9106,7 +9106,7 @@
 , {
     "emoji": "🏗"
   , "description": "building construction"
-  , "aliases": [
+  , "aliases": [ "building_construction"
     ]
   , "tags": [
     ]
@@ -9114,7 +9114,7 @@
 , {
     "emoji": "⛰"
   , "description": "mountain"
-  , "aliases": [
+  , "aliases": [ "mountain"
     ]
   , "tags": [
     ]
@@ -9122,7 +9122,7 @@
 , {
     "emoji": "🏔"
   , "description": "snow capped mountain"
-  , "aliases": [
+  , "aliases": [ "snow_capped_mountain"
     ]
   , "tags": [
     ]
@@ -9130,7 +9130,7 @@
 , {
     "emoji": "🏕"
   , "description": "camping"
-  , "aliases": [
+  , "aliases": [ "camping"
     ]
   , "tags": [
     ]
@@ -9138,7 +9138,7 @@
 , {
     "emoji": "🏞"
   , "description": "national park"
-  , "aliases": [
+  , "aliases": [ "national_park"
     ]
   , "tags": [
     ]
@@ -9146,7 +9146,7 @@
 , {
     "emoji": "🛣"
   , "description": "motorway"
-  , "aliases": [
+  , "aliases": [ "motorway"
     ]
   , "tags": [
     ]
@@ -9154,7 +9154,7 @@
 , {
     "emoji": "🛤"
   , "description": "railway track"
-  , "aliases": [
+  , "aliases": [ "railway_track"
     ]
   , "tags": [
     ]
@@ -9162,7 +9162,7 @@
 , {
     "emoji": "🏜"
   , "description": "desert"
-  , "aliases": [
+  , "aliases": [ "desert"
     ]
   , "tags": [
     ]
@@ -9170,7 +9170,7 @@
 , {
     "emoji": "🏖"
   , "description": "beach with umbrella"
-  , "aliases": [
+  , "aliases": [ "beach_with_umbrella"
     ]
   , "tags": [
     ]
@@ -9178,7 +9178,7 @@
 , {
     "emoji": "🏝"
   , "description": "desert island"
-  , "aliases": [
+  , "aliases": [ "desert_island"
     ]
   , "tags": [
     ]
@@ -9186,7 +9186,7 @@
 , {
     "emoji": "🏙"
   , "description": "cityscape"
-  , "aliases": [
+  , "aliases": [ "cityscape"
     ]
   , "tags": [
     ]
@@ -9194,7 +9194,7 @@
 , {
     "emoji": "🏘"
   , "description": "house buildings"
-  , "aliases": [
+  , "aliases": [ "house_buildings"
     ]
   , "tags": [
     ]
@@ -9202,7 +9202,7 @@
 , {
     "emoji": "🏟"
   , "description": "stadium"
-  , "aliases": [
+  , "aliases": [ "stadium"
     ]
   , "tags": [
     ]
@@ -9210,7 +9210,7 @@
 , {
     "emoji": "🏚"
   , "description": "derelict house building"
-  , "aliases": [
+  , "aliases": [ "derelict_house_building"
     ]
   , "tags": [
     ]
@@ -9218,7 +9218,7 @@
 , {
     "emoji": "🏛"
   , "description": "classical building"
-  , "aliases": [
+  , "aliases": [ "classical_building"
     ]
   , "tags": [
     ]
@@ -9226,7 +9226,7 @@
 , {
     "emoji": "🕌"
   , "description": "mosque"
-  , "aliases": [
+  , "aliases": [ "mosque"
     ]
   , "tags": [
     ]
@@ -9234,7 +9234,7 @@
 , {
     "emoji": "🕍"
   , "description": "synagogue"
-  , "aliases": [
+  , "aliases": [ "synagogue"
     ]
   , "tags": [
     ]
@@ -9242,7 +9242,7 @@
 , {
     "emoji": "🕋"
   , "description": "kaaba"
-  , "aliases": [
+  , "aliases": [ "kaaba"
     ]
   , "tags": [
     ]
@@ -9250,7 +9250,7 @@
 , {
     "emoji": "⛩"
   , "description": "shinto shrine"
-  , "aliases": [
+  , "aliases": [ "shinto_shrine"
     ]
   , "tags": [
     ]
@@ -9258,7 +9258,7 @@
 , {
     "emoji": "⌨"
   , "description": "keyboard"
-  , "aliases": [
+  , "aliases": [ "keyboard"
     ]
   , "tags": [
     ]
@@ -9266,7 +9266,7 @@
 , {
     "emoji": "🖥"
   , "description": "desktop computer"
-  , "aliases": [
+  , "aliases": [ "desktop_computer"
     ]
   , "tags": [
     ]
@@ -9274,7 +9274,7 @@
 , {
     "emoji": "🖨"
   , "description": "printer"
-  , "aliases": [
+  , "aliases": [ "printer"
     ]
   , "tags": [
     ]
@@ -9282,7 +9282,7 @@
 , {
     "emoji": "🖱"
   , "description": "three button mouse"
-  , "aliases": [
+  , "aliases": [ "three_button_mouse"
     ]
   , "tags": [
     ]
@@ -9298,7 +9298,7 @@
 , {
     "emoji": "🕹"
   , "description": "joystick"
-  , "aliases": [
+  , "aliases": [ "joystick"
     ]
   , "tags": [
     ]
@@ -9306,7 +9306,7 @@
 , {
     "emoji": "🗜"
   , "description": "compression"
-  , "aliases": [
+  , "aliases": [ "compression"
     ]
   , "tags": [
     ]
@@ -9314,7 +9314,7 @@
 , {
     "emoji": "📸"
   , "description": "camera with flash"
-  , "aliases": [
+  , "aliases": [ "camera_with_flash"
     ]
   , "tags": [
     ]
@@ -9322,7 +9322,7 @@
 , {
     "emoji": "📽"
   , "description": "film projector"
-  , "aliases": [
+  , "aliases": [ "film_projector"
     ]
   , "tags": [
     ]
@@ -9330,7 +9330,7 @@
 , {
     "emoji": "🎞"
   , "description": "film frames"
-  , "aliases": [
+  , "aliases": [ "film_frames"
     ]
   , "tags": [
     ]
@@ -9338,7 +9338,7 @@
 , {
     "emoji": "🎙"
   , "description": "studio microphone"
-  , "aliases": [
+  , "aliases": [ "studio_microphone"
     ]
   , "tags": [
     ]
@@ -9346,7 +9346,7 @@
 , {
     "emoji": "🎚"
   , "description": "level slider"
-  , "aliases": [
+  , "aliases": [ "level_slider"
     ]
   , "tags": [
     ]
@@ -9354,7 +9354,7 @@
 , {
     "emoji": "🎛"
   , "description": "control knobs"
-  , "aliases": [
+  , "aliases": [ "control_knobs"
     ]
   , "tags": [
     ]
@@ -9362,7 +9362,7 @@
 , {
     "emoji": "⏱"
   , "description": "stopwatch"
-  , "aliases": [
+  , "aliases": [ "stopwatch"
     ]
   , "tags": [
     ]
@@ -9370,7 +9370,7 @@
 , {
     "emoji": "⏲"
   , "description": "timer clock"
-  , "aliases": [
+  , "aliases": [ "timer_clock"
     ]
   , "tags": [
     ]
@@ -9378,7 +9378,7 @@
 , {
     "emoji": "🕰"
   , "description": "mantelpiece clock"
-  , "aliases": [
+  , "aliases": [ "mantelpiece_clock"
     ]
   , "tags": [
     ]
@@ -9386,7 +9386,7 @@
 , {
     "emoji": "🕯"
   , "description": "candle"
-  , "aliases": [
+  , "aliases": [ "candle"
     ]
   , "tags": [
     ]
@@ -9394,7 +9394,7 @@
 , {
     "emoji": "🗑"
   , "description": "wastebasket"
-  , "aliases": [
+  , "aliases": [ "wastebasket"
     ]
   , "tags": [
     ]
@@ -9402,7 +9402,7 @@
 , {
     "emoji": "🛢"
   , "description": "oil drum"
-  , "aliases": [
+  , "aliases": [ "oil_drum"
     ]
   , "tags": [
     ]
@@ -9410,7 +9410,7 @@
 , {
     "emoji": "⚖"
   , "description": "scales"
-  , "aliases": [
+  , "aliases": [ "scales"
     ]
   , "tags": [
     ]
@@ -9418,7 +9418,7 @@
 , {
     "emoji": "⚒"
   , "description": "hammer and pick"
-  , "aliases": [
+  , "aliases": [ "hammer_and_pick"
     ]
   , "tags": [
     ]
@@ -9426,7 +9426,7 @@
 , {
     "emoji": "🛠"
   , "description": "hammer and wrench"
-  , "aliases": [
+  , "aliases": [ "hammer_and_wrench"
     ]
   , "tags": [
     ]
@@ -9434,7 +9434,7 @@
 , {
     "emoji": "⛏"
   , "description": "pick"
-  , "aliases": [
+  , "aliases": [ "pick"
     ]
   , "tags": [
     ]
@@ -9442,7 +9442,7 @@
 , {
     "emoji": "⚙"
   , "description": "gear"
-  , "aliases": [
+  , "aliases": [ "gear"
     ]
   , "tags": [
     ]
@@ -9450,7 +9450,7 @@
 , {
     "emoji": "⛓"
   , "description": "chains"
-  , "aliases": [
+  , "aliases": [ "chains"
     ]
   , "tags": [
     ]
@@ -9458,7 +9458,7 @@
 , {
     "emoji": "🗡"
   , "description": "dagger knife"
-  , "aliases": [
+  , "aliases": [ "dagger_knife"
     ]
   , "tags": [
     ]
@@ -9466,7 +9466,7 @@
 , {
     "emoji": "⚔"
   , "description": "crossed swords"
-  , "aliases": [
+  , "aliases": [ "crossed_swords"
     ]
   , "tags": [
     ]
@@ -9474,7 +9474,7 @@
 , {
     "emoji": "🛡"
   , "description": "shield"
-  , "aliases": [
+  , "aliases": [ "shield"
     ]
   , "tags": [
     ]
@@ -9482,7 +9482,7 @@
 , {
     "emoji": "☠"
   , "description": "skull and crossbones"
-  , "aliases": [
+  , "aliases": ["skull_and_crossbones"
     ]
   , "tags": [
     ]
@@ -9490,7 +9490,7 @@
 , {
     "emoji": "⚰"
   , "description": "coffin"
-  , "aliases": [
+  , "aliases": [ "coffin"
     ]
   , "tags": [
     ]
@@ -9498,7 +9498,7 @@
 , {
     "emoji": "⚱"
   , "description": "funeral urn"
-  , "aliases": [
+  , "aliases": [ "funeral_urn"
     ]
   , "tags": [
     ]
@@ -9506,7 +9506,7 @@
 , {
     "emoji": "🏺"
   , "description": "amphora"
-  , "aliases": [
+  , "aliases": [ "amphora"
     ]
   , "tags": [
     ]
@@ -9514,7 +9514,7 @@
 , {
     "emoji": "📿"
   , "description": "prayer beads"
-  , "aliases": [
+  , "aliases": [ "prayer_beads"
     ]
   , "tags": [
     ]
@@ -9522,7 +9522,7 @@
 , {
     "emoji": "⚗"
   , "description": "alembic"
-  , "aliases": [
+  , "aliases": [ "alembic"
     ]
   , "tags": [
     ]
@@ -9530,7 +9530,7 @@
 , {
     "emoji": "🕳"
   , "description": "hole"
-  , "aliases": [
+  , "aliases": [ "hole"
     ]
   , "tags": [
     ]
@@ -9538,7 +9538,7 @@
 , {
     "emoji": "🌡"
   , "description": "thermometer"
-  , "aliases": [
+  , "aliases": [ "thermometer"
     ]
   , "tags": [
     ]
@@ -9546,7 +9546,7 @@
 , {
     "emoji": "🏷"
   , "description": "label"
-  , "aliases": [
+  , "aliases": [ "label"
     ]
   , "tags": [
     ]
@@ -9554,7 +9554,7 @@
 , {
     "emoji": "🗝"
   , "description": "old key"
-  , "aliases": [
+  , "aliases": [ "old_key"
     ]
   , "tags": [
     ]
@@ -9562,7 +9562,7 @@
 , {
     "emoji": "🛋"
   , "description": "couch and lamp"
-  , "aliases": [
+  , "aliases": [ "couch_and_lamp"
     ]
   , "tags": [
     ]
@@ -9570,7 +9570,7 @@
 , {
     "emoji": "🛌"
   , "description": "sleeping accommodation"
-  , "aliases": [
+  , "aliases": [ "sleeping_accommodation"
     ]
   , "tags": [
     ]
@@ -9578,7 +9578,7 @@
 , {
     "emoji": "🛏"
   , "description": "bed"
-  , "aliases": [
+  , "aliases": [ "bed"
     ]
   , "tags": [
     ]
@@ -9586,7 +9586,7 @@
 , {
     "emoji": "🛎"
   , "description": "bellhop bell"
-  , "aliases": [
+  , "aliases": [ "bellhop_bell"
     ]
   , "tags": [
     ]
@@ -9594,7 +9594,7 @@
 , {
     "emoji": "🖼"
   , "description": "frame with picture"
-  , "aliases": [
+  , "aliases": [ "frame_with_picture"
     ]
   , "tags": [
     ]
@@ -9602,7 +9602,7 @@
 , {
     "emoji": "🗺"
   , "description": "world map"
-  , "aliases": [
+  , "aliases": [ "world_map"
     ]
   , "tags": [
     ]
@@ -9610,7 +9610,7 @@
 , {
     "emoji": "⛱"
   , "description": "umbrella on ground"
-  , "aliases": [
+  , "aliases": [ "umbrella_on_ground"
     ]
   , "tags": [
     ]
@@ -9618,7 +9618,7 @@
 , {
     "emoji": "🛍"
   , "description": "shopping bags"
-  , "aliases": [
+  , "aliases": [ "shopping_bags"
     ]
   , "tags": [
     ]
@@ -9626,7 +9626,7 @@
 , {
     "emoji": "🗓"
   , "description": "spiral calendar pad"
-  , "aliases": [
+  , "aliases": [ "spiral_calendar_pad"
     ]
   , "tags": [
     ]
@@ -9634,7 +9634,7 @@
 , {
     "emoji": "🗃"
   , "description": "card file box"
-  , "aliases": [
+  , "aliases": [ "card_file_box"
     ]
   , "tags": [
     ]
@@ -9642,7 +9642,7 @@
 , {
     "emoji": "🗳"
   , "description": "ballot box with ballot"
-  , "aliases": [
+  , "aliases": [ "ballot_box_with_ballot"
     ]
   , "tags": [
     ]
@@ -9650,7 +9650,7 @@
 , {
     "emoji": "🗄"
   , "description": "file cabinet"
-  , "aliases": [
+  , "aliases": [ "file_cabinet"
     ]
   , "tags": [
     ]
@@ -9658,7 +9658,7 @@
 , {
     "emoji": "🗒"
   , "description": "spiral note pad"
-  , "aliases": [
+  , "aliases": [ "spiral_note_pad"
     ]
   , "tags": [
     ]
@@ -9666,7 +9666,7 @@
 , {
     "emoji": "🗂"
   , "description": "card index dividers"
-  , "aliases": [
+  , "aliases": [ "card_index_dividers"
     ]
   , "tags": [
     ]
@@ -9674,7 +9674,7 @@
 , {
     "emoji": "🗞"
   , "description": "rolled-up newspaper"
-  , "aliases": [
+  , "aliases": [ "rolled_up_newspaper"
     ]
   , "tags": [
     ]
@@ -9682,7 +9682,7 @@
 , {
     "emoji": "🖇"
   , "description": "linked paperclips"
-  , "aliases": [
+  , "aliases": [ "linked_paperclips"
     ]
   , "tags": [
     ]
@@ -9690,7 +9690,7 @@
 , {
     "emoji": "🏳"
   , "description": "waving white flag"
-  , "aliases": [
+  , "aliases": [ "waving_white_flag"
     ]
   , "tags": [
     ]
@@ -9698,7 +9698,7 @@
 , {
     "emoji": "🏴"
   , "description": "waving black flag"
-  , "aliases": [
+  , "aliases": ["waving_black_flag"
     ]
   , "tags": [
     ]
@@ -9706,7 +9706,7 @@
 , {
     "emoji": "🖊"
   , "description": "lower left ballpoint pen"
-  , "aliases": [
+  , "aliases": [ "lower_left_ballpoint_pen"
     ]
   , "tags": [
     ]
@@ -9714,7 +9714,7 @@
 , {
     "emoji": "🖋"
   , "description": "lower left fountain pen"
-  , "aliases": [
+  , "aliases": [ "lower_left_fountain_pen"
     ]
   , "tags": [
     ]
@@ -9722,7 +9722,7 @@
 , {
     "emoji": "🖍"
   , "description": "lower left crayon"
-  , "aliases": [
+  , "aliases": [ "lower_left_crayon"
     ]
   , "tags": [
     ]
@@ -9730,7 +9730,7 @@
 , {
     "emoji": "🖌"
   , "description": "lower left paintbrush"
-  , "aliases": [
+  , "aliases": [ "lower_left_paintbrush"
     ]
   , "tags": [
     ]
@@ -9738,7 +9738,7 @@
 , {
     "emoji": "❣️"
   , "description": "heavy heart exclamation mark ornament"
-  , "aliases": [
+  , "aliases": [ "heavy_heart_exclamation_mark_ornament"
     ]
   , "tags": [
     ]
@@ -9746,7 +9746,7 @@
 , {
     "emoji": "☮"
   , "description": "peace symbol"
-  , "aliases": [
+  , "aliases": [ "peace_symbol"
     ]
   , "tags": [
     ]
@@ -9754,7 +9754,7 @@
 , {
     "emoji": "✝️"
   , "description": "latin cross"
-  , "aliases": [
+  , "aliases": [ "latin_cross"
     ]
   , "tags": [
     ]
@@ -9762,7 +9762,7 @@
 , {
     "emoji": "☪"
   , "description": "star and crescent"
-  , "aliases": [
+  , "aliases": [ "star_and_crescent"
     ]
   , "tags": [
     ]
@@ -9770,7 +9770,7 @@
 , {
     "emoji": "🕉"
   , "description": "om symbol"
-  , "aliases": [
+  , "aliases": [ "om_symbol"
     ]
   , "tags": [
     ]
@@ -9778,7 +9778,7 @@
 , {
     "emoji": "☸"
   , "description": "wheel of dharma"
-  , "aliases": [
+  , "aliases": [ "wheel_of_dharma"
     ]
   , "tags": [
     ]
@@ -9786,7 +9786,7 @@
 , {
     "emoji": "✡️"
   , "description": "star of david"
-  , "aliases": [
+  , "aliases": [ "star_of_david"
     ]
   , "tags": [
     ]
@@ -9794,7 +9794,7 @@
 , {
     "emoji": "🕎"
   , "description": "menorah with nine branches"
-  , "aliases": [
+  , "aliases": [ "menorah_with_nine_branches"
     ]
   , "tags": [
     ]
@@ -9802,7 +9802,7 @@
 , {
     "emoji": "☯️"
   , "description": "yin yang"
-  , "aliases": [
+  , "aliases": [ "yin_yang"
     ]
   , "tags": [
     ]
@@ -9810,7 +9810,7 @@
 , {
     "emoji": "☦"
   , "description": "orthodox cross"
-  , "aliases": [
+  , "aliases": [ "orthodox_cross"
     ]
   , "tags": [
     ]
@@ -9818,7 +9818,7 @@
 , {
     "emoji": "🛐"
   , "description": "place of worship"
-  , "aliases": [
+  , "aliases": [ "place_of_worship"
     ]
   , "tags": [
     ]
@@ -9826,7 +9826,7 @@
 , {
     "emoji": "⚛"
   , "description": "atom symbol"
-  , "aliases": [
+  , "aliases": [ "atom_symbol"
     ]
   , "tags": [
     ]
@@ -9834,7 +9834,7 @@
 , {
     "emoji": "☢"
   , "description": "radioactive sign"
-  , "aliases": [
+  , "aliases": [ "radioactive_sign"
     ]
   , "tags": [
     ]
@@ -9842,7 +9842,7 @@
 , {
     "emoji": "☣"
   , "description": "biohazard sign"
-  , "aliases": [
+  , "aliases": [ "biohazard_sign"
     ]
   , "tags": [
     ]
@@ -9850,7 +9850,7 @@
 , {
     "emoji": "⚜"
   , "description": "fleur-de-lis"
-  , "aliases": [
+  , "aliases": [ "fleur_de_lis"
     ]
   , "tags": [
     ]
@@ -9858,7 +9858,7 @@
 , {
     "emoji": "⏸"
   , "description": "double vertical bar"
-  , "aliases": [
+  , "aliases": [ "double_vertical_bar"
     ]
   , "tags": [
     ]
@@ -9866,7 +9866,7 @@
 , {
     "emoji": "⏯"
   , "description": "black right-pointing triangle with double vertical bar"
-  , "aliases": [
+  , "aliases": [ "black_right_pointing_triangle_with_double_vertical_bar"
     ]
   , "tags": [
     ]
@@ -9874,7 +9874,7 @@
 , {
     "emoji": "⏹"
   , "description": "black square for stop"
-  , "aliases": [
+  , "aliases": [ "black_square_for_stop"
     ]
   , "tags": [
     ]
@@ -9882,7 +9882,7 @@
 , {
     "emoji": "⏺"
   , "description": "black circle for record"
-  , "aliases": [
+  , "aliases": [ "black_circle_for_record"
     ]
   , "tags": [
     ]
@@ -9890,7 +9890,7 @@
 , {
     "emoji": "⏭"
   , "description": "black right-pointing double triangle with vertical bar"
-  , "aliases": [
+  , "aliases": [ "black_right_pointing_double_triangle_with_vertical_bar"
     ]
   , "tags": [
     ]
@@ -9898,7 +9898,7 @@
 , {
     "emoji": "⏮"
   , "description": "black left-pointing double triangle with vertical bar"
-  , "aliases": [
+  , "aliases": [ "black_left_pointing_double_triangle_with_vertical_bar"
     ]
   , "tags": [
     ]
@@ -9906,7 +9906,7 @@
 , {
     "emoji": "*️⃣"
   , "description": "asterisk + combining enclosing keycap"
-  , "aliases": [
+  , "aliases": [ "keycap_star"
     ]
   , "tags": [
     ]
@@ -9914,7 +9914,7 @@
 , {
     "emoji": "👁🗨"
   , "description": "eye + left speech bubble"
-  , "aliases": [
+  , "aliases": [ "eye_in_speech_bubble"
     ]
   , "tags": [
     ]
@@ -9922,7 +9922,7 @@
 , {
     "emoji": "🗯"
   , "description": "right anger bubble"
-  , "aliases": [
+  , "aliases": ["right_anger_bubble"
     ]
   , "tags": [
     ]
