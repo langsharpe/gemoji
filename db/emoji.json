@@ -8265,6 +8265,7 @@
     "emoji": "🙂"
   , "description": "slightly smiling face"
   , "aliases": [
+      "slightly_smiling_face"
     ]
   , "tags": [
     ]
@@ -8273,6 +8274,7 @@
     "emoji": "🙃"
   , "description": "upside-down face"
   , "aliases": [
+      "upside_down_face"
     ]
   , "tags": [
     ]
@@ -8281,6 +8283,7 @@
     "emoji": "🤑"
   , "description": "money-mouth face"
   , "aliases": [
+      "money_mouth_face"
     ]
   , "tags": [
     ]
@@ -8289,6 +8292,7 @@
     "emoji": "🤓"
   , "description": "nerd face"
   , "aliases": [
+      "nerd_face"
     ]
   , "tags": [
     ]
@@ -8297,6 +8301,7 @@
     "emoji": "🤗"
   , "description": "hugging face"
   , "aliases": [
+      "hugging_face"
     ]
   , "tags": [
     ]
@@ -8305,6 +8310,7 @@
     "emoji": "🙄"
   , "description": "face with rolling eyes"
   , "aliases": [
+      "face_with_rolling_eyes"
     ]
   , "tags": [
     ]
@@ -8313,6 +8319,7 @@
     "emoji": "🤔"
   , "description": "thinking face"
   , "aliases": [
+      "thinking_face"
     ]
   , "tags": [
     ]
@@ -8321,6 +8328,7 @@
     "emoji": "🙁"
   , "description": "slightly frowning face"
   , "aliases": [
+      "slightly_frowning_face"
     ]
   , "tags": [
     ]
@@ -8329,6 +8337,7 @@
     "emoji": "☹"
   , "description": "white frowning face"
   , "aliases": [
+      "white_frowning_face"
     ]
   , "tags": [
     ]
@@ -8337,6 +8346,7 @@
     "emoji": "🤐"
   , "description": "zipper-mouth face"
   , "aliases": [
+      "zipper_mouth_face"
     ]
   , "tags": [
     ]
@@ -8345,6 +8355,7 @@
     "emoji": "🤒"
   , "description": "face with thermometer"
   , "aliases": [
+      "face_with_thermometer"
     ]
   , "tags": [
     ]
@@ -8353,6 +8364,7 @@
     "emoji": "🤕"
   , "description": "face with head-bandage"
   , "aliases": [
+      "face_with_head_bandage"
     ]
   , "tags": [
     ]
@@ -8361,6 +8373,7 @@
     "emoji": "🤖"
   , "description": "robot face"
   , "aliases": [
+      "robot_face"
     ]
   , "tags": [
     ]
@@ -8369,6 +8382,7 @@
     "emoji": "🖕"
   , "description": "reversed hand with middle finger extended"
   , "aliases": [
+      "middle_finger"
     ]
   , "tags": [
     ]
@@ -8377,6 +8391,7 @@
     "emoji": "🖐"
   , "description": "raised hand with fingers splayed"
   , "aliases": [
+      "raised_hand_with_fingers_splayed"
     ]
   , "tags": [
     ]
@@ -8385,6 +8400,8 @@
     "emoji": "🤘"
   , "description": "sign of the horns"
   , "aliases": [
+      "sign_of_the_horns",
+      "the_horns"
     ]
   , "tags": [
     ]
@@ -8393,6 +8410,7 @@
     "emoji": "🖖"
   , "description": "raised hand with part between middle and ring fingers"
   , "aliases": [
+      "spock-hand"
     ]
   , "tags": [
     ]
@@ -8401,6 +8419,7 @@
     "emoji": "✍️"
   , "description": "writing hand"
   , "aliases": [
+      "writing_hand"
     ]
   , "tags": [
     ]
@@ -8409,6 +8428,7 @@
     "emoji": "👁"
   , "description": "eye"
   , "aliases": [
+      "eye"
     ]
   , "tags": [
     ]
@@ -8417,6 +8437,7 @@
     "emoji": "🗣"
   , "description": "speaking head in silhouette"
   , "aliases": [
+      "speaking_head_in_silhouette"
     ]
   , "tags": [
     ]
@@ -8425,6 +8446,7 @@
     "emoji": "🕵"
   , "description": "sleuth or spy"
   , "aliases": [
+      "sleuth_or_spy"
     ]
   , "tags": [
     ]
@@ -8577,6 +8599,7 @@
     "emoji": "⛑"
   , "description": "helmet with white cross"
   , "aliases": [
+      "helmet_with_white_cross"
     ]
   , "tags": [
     ]
@@ -8585,6 +8608,7 @@
     "emoji": "🕶"
   , "description": "dark sunglasses"
   , "aliases": [
+      "dark_sunglasses"
     ]
   , "tags": [
     ]
@@ -8593,6 +8617,7 @@
     "emoji": "🦁"
   , "description": "lion face"
   , "aliases": [
+  "lion_face"
     ]
   , "tags": [
     ]
@@ -8601,6 +8626,7 @@
     "emoji": "🦄"
   , "description": "unicorn face"
   , "aliases": [
+  "unicorn_face"
     ]
   , "tags": [
     ]
@@ -8609,6 +8635,7 @@
     "emoji": "🕷"
   , "description": "spider"
   , "aliases": [
+      "spider"
     ]
   , "tags": [
     ]
@@ -8617,6 +8644,7 @@
     "emoji": "🦂"
   , "description": "scorpion"
   , "aliases": [
+      "spider"
     ]
   , "tags": [
     ]
@@ -8625,6 +8653,7 @@
     "emoji": "🦀"
   , "description": "crab"
   , "aliases": [
+      "crab"
     ]
   , "tags": [
     ]
@@ -8633,6 +8662,7 @@
     "emoji": "🦃"
   , "description": "turkey"
   , "aliases": [
+      "turkey"
     ]
   , "tags": [
     ]
@@ -8641,6 +8671,7 @@
     "emoji": "🕊"
   , "description": "dove of peace"
   , "aliases": [
+      "dove_of_peace"
     ]
   , "tags": [
     ]
@@ -8649,6 +8680,7 @@
     "emoji": "🐿"
   , "description": "chipmunk"
   , "aliases": [
+      "chipmunk"
     ]
   , "tags": [
     ]
@@ -8657,6 +8689,7 @@
     "emoji": "☘"
   , "description": "shamrock"
   , "aliases": [
+      "shamrock"
     ]
   , "tags": [
     ]
@@ -8665,6 +8698,7 @@
     "emoji": "🕸"
   , "description": "spider web"
   , "aliases": [
+    "spider_web"
     ]
   , "tags": [
     ]
@@ -8673,6 +8707,7 @@
     "emoji": "☄"
   , "description": "comet"
   , "aliases": [
+    "comet"
     ]
   , "tags": [
     ]
@@ -8681,6 +8716,7 @@
     "emoji": "🌤"
   , "description": "white sun with small cloud"
   , "aliases": [
+      "mostly_sunny"
     ]
   , "tags": [
     ]
@@ -8689,6 +8725,7 @@
     "emoji": "🌥"
   , "description": "white sun behind cloud"
   , "aliases": [
+  "barely_sunny"
     ]
   , "tags": [
     ]
@@ -8697,6 +8734,7 @@
     "emoji": "🌦"
   , "description": "white sun behind cloud with rain"
   , "aliases": [
+  "partly_sunny_rain"
     ]
   , "tags": [
     ]
@@ -8705,6 +8743,7 @@
     "emoji": "🌧"
   , "description": "cloud with rain"
   , "aliases": [
+  "rain_cloud"
     ]
   , "tags": [
     ]
@@ -8713,6 +8752,7 @@
     "emoji": "⛈"
   , "description": "thunder cloud and rain"
   , "aliases": [
+  "thunder_cloud_and_rain"
     ]
   , "tags": [
     ]
@@ -8721,6 +8761,7 @@
     "emoji": "🌩"
   , "description": "cloud with lightning"
   , "aliases": [
+  "lightening"
     ]
   , "tags": [
     ]
@@ -8729,6 +8770,7 @@
     "emoji": "🌨"
   , "description": "cloud with snow"
   , "aliases": [
+  "snow_cloud"
     ]
   , "tags": [
     ]
@@ -8737,6 +8779,7 @@
     "emoji": "☃️"
   , "description": "snowman"
   , "aliases": [
+  "snowman"
     ]
   , "tags": [
     ]
@@ -8745,6 +8788,7 @@
     "emoji": "🌬"
   , "description": "wind blowing face"
   , "aliases": [
+  "wind_blowing_face"
     ]
   , "tags": [
     ]
@@ -8753,6 +8797,7 @@
     "emoji": "🌪"
   , "description": "cloud with tornado"
   , "aliases": [
+  "tornado"
     ]
   , "tags": [
     ]
@@ -8760,7 +8805,7 @@
 , {
     "emoji": "🌫"
   , "description": "fog"
-  , "aliases": [
+  , "aliases": [ "fog"
     ]
   , "tags": [
     ]
@@ -8768,7 +8813,7 @@
 , {
     "emoji": "☂️"
   , "description": "umbrella"
-  , "aliases": [
+  , "aliases": [ "umbrella"
     ]
   , "tags": [
     ]
@@ -8777,6 +8822,7 @@
     "emoji": "🌶"
   , "description": "hot pepper"
   , "aliases": [
+  "hot_pepper"
     ]
   , "tags": [
     ]
@@ -8785,6 +8831,7 @@
     "emoji": "🧀"
   , "description": "cheese wedge"
   , "aliases": [
+  "cheese_wedge"
     ]
   , "tags": [
     ]
@@ -8793,6 +8840,7 @@
     "emoji": "🌭"
   , "description": "hot dog"
   , "aliases": [
+  "hotdog"
     ]
   , "tags": [
     ]
@@ -8801,6 +8849,7 @@
     "emoji": "🌮"
   , "description": "taco"
   , "aliases": [
+  "taco"
     ]
   , "tags": [
     ]
@@ -8809,6 +8858,7 @@
     "emoji": "🌯"
   , "description": "burrito"
   , "aliases": [
+  "burrito"
     ]
   , "tags": [
     ]
@@ -8816,7 +8866,7 @@
 , {
     "emoji": "🍿"
   , "description": "popcorn"
-  , "aliases": [
+  , "aliases": [ "popcorn"
     ]
   , "tags": [
     ]
@@ -8824,7 +8874,7 @@
 , {
     "emoji": "🍾"
   , "description": "bottle with popping cork"
-  , "aliases": [
+  , "aliases": [ "champagne"
     ]
   , "tags": [
     ]
@@ -8832,7 +8882,7 @@
 , {
     "emoji": "🍽"
   , "description": "fork and knife with plate"
-  , "aliases": [
+  , "aliases": [ "knife_fork_plate"
     ]
   , "tags": [
     ]
@@ -8840,7 +8890,7 @@
 , {
     "emoji": "🏐"
   , "description": "volleyball"
-  , "aliases": [
+  , "aliases": [ "volleyball"
     ]
   , "tags": [
     ]
@@ -8848,7 +8898,7 @@
 , {
     "emoji": "🏌"
   , "description": "golfer"
-  , "aliases": [
+  , "aliases": [ "golfer"
     ]
   , "tags": [
     ]
@@ -8856,7 +8906,7 @@
 , {
     "emoji": "🏓"
   , "description": "table tennis paddle and ball"
-  , "aliases": [
+  , "aliases": [ "table_tennis_paddle_and_ball"
     ]
   , "tags": [
     ]
@@ -8864,7 +8914,7 @@
 , {
     "emoji": "🏸"
   , "description": "badminton racquet and shuttlecock"
-  , "aliases": [
+  , "aliases": [ "badminton_racquet_and_shuttlecock"
     ]
   , "tags": [
     ]
@@ -8872,7 +8922,7 @@
 , {
     "emoji": "🏒"
   , "description": "ice hockey stick and puck"
-  , "aliases": [
+  , "aliases": [ "ice_hockey_stick_and_puck"
     ]
   , "tags": [
     ]
@@ -8880,7 +8930,7 @@
 , {
     "emoji": "🏑"
   , "description": "field hockey stick and ball"
-  , "aliases": [
+  , "aliases": [ "field_hockey_stick_and_ball"
     ]
   , "tags": [
     ]
@@ -8888,7 +8938,7 @@
 , {
     "emoji": "🏏"
   , "description": "cricket bat and ball"
-  , "aliases": [
+  , "aliases": [ "cricket_bat_and_ball"
     ]
   , "tags": [
     ]
@@ -8896,7 +8946,7 @@
 , {
     "emoji": "⛷"
   , "description": "skier"
-  , "aliases": [
+  , "aliases": [ "skier"
     ]
   , "tags": [
     ]
@@ -8904,7 +8954,7 @@
 , {
     "emoji": "⛸"
   , "description": "ice skate"
-  , "aliases": [
+  , "aliases": [ "ice_skate"
     ]
   , "tags": [
     ]
@@ -8912,7 +8962,7 @@
 , {
     "emoji": "🏹"
   , "description": "bow and arrow"
-  , "aliases": [
+  , "aliases": [ "bow_and_arrow"
     ]
   , "tags": [
     ]
@@ -8920,7 +8970,7 @@
 , {
     "emoji": "⛹"
   , "description": "person with ball"
-  , "aliases": [
+  , "aliases": [ "person_with_ball"
     ]
   , "tags": [
     ]
@@ -8928,7 +8978,7 @@
 , {
     "emoji": "🏋"
   , "description": "weight lifter"
-  , "aliases": [
+  , "aliases": [ "weight_lifter"
     ]
   , "tags": [
     ]
@@ -8936,7 +8986,7 @@
 , {
     "emoji": "🕴"
   , "description": "man in business suit levitating"
-  , "aliases": [
+  , "aliases": [ "man_in_business_suit_levitating"
     ]
   , "tags": [
     ]
@@ -8944,7 +8994,7 @@
 , {
     "emoji": "🏅"
   , "description": "sports medal"
-  , "aliases": [
+  , "aliases": [ "sports_medal"
     ]
   , "tags": [
     ]
@@ -8952,7 +9002,7 @@
 , {
     "emoji": "🎖"
   , "description": "military medal"
-  , "aliases": [
+  , "aliases": [ "medal"
     ]
   , "tags": [
     ]
