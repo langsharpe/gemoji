@@ -8455,6 +8455,7 @@
     "emoji": "👩❤👩"
   , "description": "woman + heavy black heart + woman"
   , "aliases": [
+      "woman-heart-woman"
     ]
   , "tags": [
     ]
@@ -8463,6 +8464,7 @@
     "emoji": "👨❤👨"
   , "description": "man + heavy black heart + man"
   , "aliases": [
+      "man-heart-man"
     ]
   , "tags": [
     ]
@@ -8471,6 +8473,7 @@
     "emoji": "👩❤💋👩"
   , "description": "woman + heavy black heart + kiss mark + woman"
   , "aliases": [
+      "woman-kiss-woman"
     ]
   , "tags": [
     ]
@@ -8479,6 +8482,7 @@
     "emoji": "👨❤💋👨"
   , "description": "man + heavy black heart + kiss mark + man"
   , "aliases": [
+      "man-kiss-man"
     ]
   , "tags": [
     ]
@@ -8487,6 +8491,7 @@
     "emoji": "👨👩👧"
   , "description": "man + woman + girl"
   , "aliases": [
+      "man-woman-girl"
     ]
   , "tags": [
     ]
@@ -8495,6 +8500,7 @@
     "emoji": "👨👩👧👦"
   , "description": "man + woman + girl + boy"
   , "aliases": [
+      "man-woman-girl-boy"
     ]
   , "tags": [
     ]
@@ -8503,6 +8509,7 @@
     "emoji": "👨👩👦👦"
   , "description": "man + woman + boy + boy"
   , "aliases": [
+      "man-woman-boy-boy"
     ]
   , "tags": [
     ]
@@ -8511,6 +8518,7 @@
     "emoji": "👨👩👧👧"
   , "description": "man + woman + girl + girl"
   , "aliases": [
+      "man-woman-girl-girl"
     ]
   , "tags": [
     ]
@@ -8519,6 +8527,7 @@
     "emoji": "👩👩👦"
   , "description": "woman + woman + boy"
   , "aliases": [
+      "woman-woman-boy"
     ]
   , "tags": [
     ]
@@ -8527,6 +8536,7 @@
     "emoji": "👩👩👧"
   , "description": "woman + woman + girl"
   , "aliases": [
+      "woman-woman-girl"
     ]
   , "tags": [
     ]
@@ -8535,6 +8545,7 @@
     "emoji": "👩👩👧👦"
   , "description": "woman + woman + girl + boy"
   , "aliases": [
+      "woman-woman-girl-boy"
     ]
   , "tags": [
     ]
@@ -8543,6 +8554,7 @@
     "emoji": "👩👩👦👦"
   , "description": "woman + woman + boy + boy"
   , "aliases": [
+      "woman-woman-boy-boy"
     ]
   , "tags": [
     ]
@@ -8551,6 +8563,7 @@
     "emoji": "👩👩👧👧"
   , "description": "woman + woman + girl + girl"
   , "aliases": [
+      "woman-woman-girl-girl"
     ]
   , "tags": [
     ]
@@ -8559,6 +8572,7 @@
     "emoji": "👨👨👦"
   , "description": "man + man + boy"
   , "aliases": [
+      "man-man-boy"
     ]
   , "tags": [
     ]
@@ -8567,6 +8581,7 @@
     "emoji": "👨👨👧"
   , "description": "man + man + girl"
   , "aliases": [
+      "man-man-girl"
     ]
   , "tags": [
     ]
@@ -8575,6 +8590,7 @@
     "emoji": "👨👨👧👦"
   , "description": "man + man + girl + boy"
   , "aliases": [
+      "man-man-girl-boy"
     ]
   , "tags": [
     ]
@@ -8583,6 +8599,7 @@
     "emoji": "👨👨👦👦"
   , "description": "man + man + boy + boy"
   , "aliases": [
+      "man-man-boy-boy"
     ]
   , "tags": [
     ]
@@ -8591,6 +8608,7 @@
     "emoji": "👨👨👧👧"
   , "description": "man + man + girl + girl"
   , "aliases": [
+      "man-man-girl-girl"
     ]
   , "tags": [
     ]
